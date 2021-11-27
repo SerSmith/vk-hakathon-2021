@@ -10,9 +10,10 @@
 
 rus_train_dataset: данные на русском языке
 en_to_rus_train_dataset: переводы на русский язык части датасета https://github.com/uberspot/OpenTriviaQA. Обратите внимание, что эти данные достаточно шумные.
-2. Baseline-ноутбук с примером test_pipeline_questions.csv: https://vk.cc/c55AU7.
 
-3. Тестовая ссылка https://vk.cc/c55y2Y для проверки формата с test_pipeline_questions.csv, которая содержит данные в следующем виде:
+Baseline-ноутбук с примером test_pipeline_questions.csv: https://vk.cc/c55AU7.
+
+Тестовая ссылка https://vk.cc/c55y2Y для проверки формата с test_pipeline_questions.csv, которая содержит данные в следующем виде:
 
 ВОПРОС | ВАРИАНТ_0 | ВАРИАНТ_1 | ВАРИАНТ_2 
 В том же формате файл будет передан в модель во время закрытого тестирования.
